@@ -1,0 +1,17 @@
+This analysis looks at reading and math results for students from 9th to 12th grade, compared against the population of these schools, whether they are a 
+district or charter school, and the school's funding.
+
+
+Takeaways from the data:
+
+1) Schools that spent the least amount of money per student demonstrated the highest across ever measure of academic success (average reading and math scores, 
+and % of students passing exams for reading, math, and overall)
+
+2) While small- and medium-sized schools (as measured by population of the student body) demonstrated similar results across all measures of success, 
+large-sized schools did worse across the board, particularly in the rates at which students in large-sized schools passed their assessments, 
+though average scores, while still lower at large-sized schools, did not lag as far behind.
+
+3) Charter Schools performed better by every measure of assessment when compared to District Schools. These performance differences were especially pronounced 
+in the rates at which students in Charter Schools passed their assessments. 
+
+4) Grade level did not appear to have a significant impact on the performance of students within their individual schools. 
